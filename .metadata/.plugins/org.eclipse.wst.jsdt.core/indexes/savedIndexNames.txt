@@ -1,0 +1,4 @@
+INDEX VERSION 1.3+/media/augusto/Home/programmer/projects/java/eng5/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+152366123.index
+2266914449.index
+3525260285.index

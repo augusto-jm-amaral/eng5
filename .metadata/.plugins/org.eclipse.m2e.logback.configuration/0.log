@@ -1,0 +1,303 @@
+2015-08-07 16:13:01,301 [ModalContext] WARN  o.e.m.j.i.JavaProjectConversionParticipant - client has multiple source entries, this is not supported yet
+2015-08-07 16:13:11,355 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-07 16:13:14,902 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src
+2015-08-07 16:13:14,903 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/WebContent
+2015-08-07 16:13:14,919 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/test
+2015-08-07 16:13:15,886 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-07 16:13:16,517 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-07 16:13:18,131 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/src
+2015-08-07 16:13:18,131 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /client/WebContent
+2015-08-07 16:13:18,149 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /client/test
+2015-08-07 16:13:19,331 [Worker-17] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for client
+2015-08-07 16:13:19,667 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2015-08-07 16:16:40,840 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-07 16:16:41,264 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /admin/src
+2015-08-07 16:16:41,268 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /admin/test
+2015-08-07 16:16:41,603 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-07 16:16:41,695 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-07 16:16:41,807 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /admin/src
+2015-08-07 16:16:41,811 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /admin/test
+2015-08-07 16:16:41,938 [Worker-10] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for admin
+2015-08-07 16:16:41,944 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-07 16:26:43,264 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework.build:build:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-07 16:26:44,271 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /build/src
+2015-08-07 16:26:44,271 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /build/src/test/java because it overlaps with /build/src
+2015-08-07 16:26:44,311 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-07 16:26:44,378 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework.build:build:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-07 16:26:44,470 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /build/src
+2015-08-07 16:26:44,471 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /build/src/test/java because it overlaps with /build/src
+2015-08-07 16:26:44,540 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-07 16:30:42,805 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-07 16:30:44,056 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:30:44,088 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/main/resources
+2015-08-07 16:30:44,091 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:30:44,091 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/test/resources
+2015-08-07 16:30:44,166 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.homework.build:build:1.1.1.1-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-07 16:30:44,902 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-07 16:30:46,154 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-07 16:30:46,620 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:30:46,620 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-07 16:30:46,625 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:30:46,626 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-07 16:31:20,349 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-07 16:31:20,424 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.homework.build:build:1.1.1.1-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-07 16:31:20,907 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-07 16:31:20,966 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-07 16:31:21,782 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-08-07 16:32:28,918 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-07 16:32:28,918 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-08-07 16:39:27,287 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-07 16:39:28,396 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integration/src
+2015-08-07 16:39:28,401 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integration/test
+2015-08-07 16:39:28,635 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-07 16:39:29,137 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-07 16:39:30,095 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integration/src
+2015-08-07 16:39:30,099 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integration/test
+2015-08-07 16:39:30,233 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for integration
+2015-08-07 16:39:30,239 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-08-07 16:40:56,035 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:56,036 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/main/resources
+2015-08-07 16:40:56,041 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:56,042 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/test/resources
+2015-08-07 16:40:56,596 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-07 16:40:56,928 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:56,929 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-07 16:40:56,930 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:56,930 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-07 16:40:56,931 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of client
+2015-08-07 16:40:56,932 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for client
+2015-08-07 16:40:56,955 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:57,048 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-07 16:40:57,250 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:57,276 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-07 16:40:57,277 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-07 16:40:57,278 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:57,279 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/integration/src/test/resources
+2015-08-07 16:40:57,279 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for integration
+2015-08-07 16:40:57,287 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:40:57,289 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-08-07 16:40:57,325 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-08-07 16:41:10,360 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-07 16:41:10,521 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-07 16:41:10,698 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integration/src
+2015-08-07 16:41:10,698 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding resources folder /media/augusto/Home/programmer/projects/java/eng5/admin/target/classes
+2015-08-07 16:41:10,698 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding resources folder /media/augusto/Home/programmer/projects/java/eng5/client/target/classes
+2015-08-07 16:41:10,699 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /integration/test
+2015-08-07 16:41:10,890 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for integration
+2015-08-07 16:41:10,893 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-08-07 16:43:02,825 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.homework.build:build:1.1.1.1-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-07 16:43:02,866 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-07 16:43:02,904 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-07 16:43:03,491 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:43:03,491 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-07 16:43:03,494 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:43:03,495 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-07 16:43:03,586 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-07 16:43:03,721 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:43:03,722 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-07 16:43:03,722 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-07 16:43:03,724 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:43:03,725 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/integration/src/test/resources
+2015-08-07 16:43:03,725 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for integration
+2015-08-07 16:43:03,735 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-07 16:43:03,736 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-08-07 16:43:03,743 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-08-07 16:43:34,725 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-07 16:43:34,725 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-08-07 16:44:47,123 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-07 16:44:47,123 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-08-07 16:45:00,213 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-07 16:45:00,213 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-08-08 19:12:47,649 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework.model:model:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/model/pom.xml.
+2015-08-08 19:12:49,372 [Worker-147] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model/src
+2015-08-08 19:12:49,375 [Worker-147] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model/test
+2015-08-08 19:12:49,483 [Worker-147] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-08-08 19:12:50,423 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework.model:model:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/model/pom.xml.
+2015-08-08 19:12:50,791 [Worker-147] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model/src
+2015-08-08 19:12:50,795 [Worker-147] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /model/test
+2015-08-08 19:12:50,876 [Worker-147] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2015-08-08 19:15:09,586 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:09,587 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/main/resources
+2015-08-08 19:15:09,590 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:09,591 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/test/resources
+2015-08-08 19:15:10,665 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.homework.build:build:1.1.1.1-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-08 19:15:10,965 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-08 19:15:11,025 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-08 19:15:11,064 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-08 19:15:13,099 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:13,100 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:15:13,102 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:13,103 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:15:13,103 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of client
+2015-08-08 19:15:13,103 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for client
+2015-08-08 19:15:13,109 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:13,185 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:13,186 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/target/classes
+2015-08-08 19:15:13,186 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/target/classes
+2015-08-08 19:15:13,188 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:13,188 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/integration/src/test/resources
+2015-08-08 19:15:13,189 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of integration
+2015-08-08 19:15:13,189 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for integration
+2015-08-08 19:15:13,200 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:13,202 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-08-08 19:15:13,234 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-08-08 19:15:13,389 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework.model:model:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/model/pom.xml.
+2015-08-08 19:15:14,513 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:14,515 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:15:14,523 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:15:14,525 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:15:26,593 [Worker-127] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-08 19:15:26,593 [Worker-127] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-08-08 19:18:25,660 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:18:25,682 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/main/resources
+2015-08-08 19:18:25,683 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:18:25,690 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/test/resources
+2015-08-08 19:18:25,777 [Worker-147] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-08 19:18:26,217 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:18:26,220 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:18:26,229 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:18:26,230 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:18:26,230 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of client
+2015-08-08 19:18:26,231 [Worker-147] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for client
+2015-08-08 19:18:26,238 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:19:27,702 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:19:27,703 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/main/resources
+2015-08-08 19:19:27,706 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:19:27,706 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/test/resources
+2015-08-08 19:19:45,539 [Worker-146] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-08 19:19:45,539 [Worker-146] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-08-08 19:23:12,953 [Worker-144] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-08 19:23:13,954 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:23:13,955 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/main/resources
+2015-08-08 19:23:13,956 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:23:13,957 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/test/resources
+2015-08-08 19:23:13,957 [Worker-144] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of admin
+2015-08-08 19:23:13,957 [Worker-144] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for admin
+2015-08-08 19:23:13,961 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:23:13,993 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:23:13,993 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:23:13,995 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:23:13,995 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:23:15,121 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:23:15,121 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:23:15,123 [Worker-148] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:23:15,123 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:24:52,682 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:24:52,683 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:24:52,685 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:24:52,686 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:31:07,486 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:31:07,487 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:31:07,488 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:31:07,489 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:32:05,588 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:32:05,590 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:32:05,593 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:32:05,593 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:32:36,068 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:32:36,069 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:32:36,071 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:32:36,072 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:32:55,349 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:32:55,349 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:32:55,353 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:32:55,353 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:34:19,977 [Worker-151] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-08 19:34:19,977 [Worker-151] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-08-08 19:36:12,911 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:36:12,924 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:36:12,928 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:36:12,929 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:37:39,680 [Worker-149] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.homework.build:build:1.1.1.1-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-08 19:37:40,458 [Worker-149] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-08 19:37:40,531 [Worker-149] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework.model:model:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/model/pom.xml.
+2015-08-08 19:37:40,570 [Worker-149] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-08 19:37:40,611 [Worker-149] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-08 19:37:43,218 [Worker-152] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.homework.build:build:1.1.1.1-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/build/pom.xml.
+2015-08-08 19:37:43,658 [Worker-152] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.client:client:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/client/pom.xml.
+2015-08-08 19:37:43,720 [Worker-152] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.admin:admin:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/admin/pom.xml.
+2015-08-08 19:37:43,773 [Worker-152] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.homework.model:model:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/model/pom.xml.
+2015-08-08 19:37:43,824 [Worker-152] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: org.homework.integration:integration:1.0-SNAPSHOT @ /media/augusto/Home/programmer/projects/java/eng5/integration/pom.xml.
+2015-08-08 19:37:45,700 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:45,704 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-08-08 19:37:45,705 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/target/classes
+2015-08-08 19:37:45,709 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:45,716 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/integration/src/test/resources
+2015-08-08 19:37:46,080 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:46,100 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:37:46,105 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:46,105 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:37:46,781 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:46,782 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:37:46,784 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:46,784 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:37:47,706 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:47,707 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/main/resources
+2015-08-08 19:37:47,709 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:37:47,710 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/admin/src/test/resources
+2015-08-08 19:40:37,384 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:40:37,384 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:40:37,386 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:40:37,386 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:41:42,925 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:41:42,926 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:41:42,928 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:41:42,928 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:42:22,298 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:22,298 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:42:22,300 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:22,300 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:42:29,621 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:29,621 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:42:29,623 [Worker-153] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:29,624 [Worker-153] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:42:32,410 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:32,410 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:42:32,412 [Worker-149] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:32,413 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 19:42:32,633 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:32,633 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:42:32,634 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:32,635 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:42:36,038 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:36,039 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:42:36,041 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:36,041 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:42:56,739 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:56,739 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:42:56,740 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:42:56,741 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:43:53,026 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:43:53,026 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:43:53,028 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:43:53,028 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:44:09,560 [Worker-155] INFO  o.e.m.i.launch.MavenLaunchDelegate - /media/augusto/Home/programmer/projects/java/eng5/build
+2015-08-08 19:44:09,560 [Worker-155] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-08-08 19:45:19,315 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:45:19,316 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:45:19,331 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:45:19,332 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:46:21,054 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:46:21,055 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/main/resources
+2015-08-08 19:46:21,056 [Worker-156] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:46:21,056 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/client/src/test/resources
+2015-08-08 19:46:22,121 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:46:22,121 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 19:46:22,122 [Worker-152] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 19:46:22,123 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 20:31:20,288 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:31:20,345 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 20:31:20,356 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:31:20,364 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 20:33:46,278 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:33:46,278 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 20:33:46,284 [Worker-160] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:33:46,285 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 20:34:09,687 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:34:09,687 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 20:34:09,690 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:34:09,690 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
+2015-08-08 20:34:14,626 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:34:14,627 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/main/resources
+2015-08-08 20:34:14,629 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-08-08 20:34:14,629 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /media/augusto/Home/programmer/projects/java/eng5/model/src/test/resources
